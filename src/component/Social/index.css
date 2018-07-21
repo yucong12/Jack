@@ -1,0 +1,61 @@
+.title{
+	width: 44px;
+	height: 44px;
+border-radius:22px;
+float: left;
+padding-right: 4px;
+}
+*{
+	padding: 0;
+	margin: 0;
+}
+.div{
+	margin-bottom: 22px;
+	width: 100%;
+}
+.wai{
+	margin-bottom: 25px;
+	padding:20px;
+	border-bottom: 9px solid #999;
+	width: 100%;
+}
+.right{
+	float: right;
+	width: 78px;
+	height: 26px;
+	border: 1px solid #999;
+	text-align: center;
+}
+.font{
+	font-size:13px;
+	color:#999;
+	display: inline;
+}
+.photo{
+	width: 100%;
+	height: 100%;
+	float: left
+}
+
+.photo{
+	
+	width: 135px;
+	height: 135px;
+	padding: 2px;
+}
+.icon{
+	display:inline-block;
+	padding-top: 19px;
+	text-decoration: none;
+}
+.host{
+	margin:10px;
+}
+.chuan{
+	color: #ccc;
+	text-decoration:none
+}
+.qing{
+	overflow: hidden;
+}
+

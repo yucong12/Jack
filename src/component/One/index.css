@@ -1,0 +1,38 @@
+.photos{
+	width: 81px;
+	height: 81px;
+
+}
+.flex{
+	display: flex;
+	height: 81px;
+	padding:10px;
+	height:440px;
+}
+.hh{
+	height:81px;
+	width: 100%;
+	padding: 13px;
+	background: #999;
+	
+	
+	overflow: hidden;
+}
+.text{
+		height:73px;
+		width:100%;
+		border:none;
+		padding:15px;
+		margin-bottom: 40px;
+}
+.ll{
+	height: 100%;
+	font-size: 15px;
+}
+*{
+	padding:0;
+	margin: 0;
+	
+}
+
+

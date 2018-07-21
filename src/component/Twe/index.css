@@ -1,0 +1,46 @@
+*{
+	padding: 0;
+	margin:0;
+}
+.hasves{
+	width: 33px;
+	height: 33px;
+	border-radius: 50%;
+	float: left;
+	margin-right: 12px;
+}
+.zeros{
+	font-size:12px;
+	display: inline;
+}
+section{
+	padding:20px; 
+}
+.videos{
+	width: 105px;
+	height: 105px;
+	/* display: inline-block; */
+}
+.mosts{
+	
+	
+	width: 100%;
+}
+.lls{
+	display: inline;
+}
+.pures{
+	padding: 20px;
+}
+
+.colors .ass{
+	color: #000;
+	text-decoration: none;
+}
+.colors{
+	border-top:1px solid #ccc;
+	padding:10px;
+}
+.colors a{
+	color:#999;
+}

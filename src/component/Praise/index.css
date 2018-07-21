@@ -1,0 +1,11 @@
+.photoes{
+	width:33px;
+	height:33px;
+	border-radius: 50%;
+	float:left;
+
+}
+.year{
+	border-top: 1px solid #ccc;
+	padding: 20px;
+}
